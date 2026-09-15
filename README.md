@@ -34,4 +34,4 @@ matplotlib · Vue.js · HTML/CSS · uv
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/mahyar-mirzazadeh)
+[LinkedIn](https://www.linkedin.com/in/mahyar-mirzazadeh-550b3b166)
